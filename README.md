@@ -1,6 +1,7 @@
 # cs5780_kaggle_competition
 https://www.kaggle.com/competitions/movie-review-preference-analysis
 
+Together with @Suphakrit Lertkitcharoenvong.
 
 Sentiment analysis is a fascinating field in natural language processing (NLP) that deals with understanding the emotions conveyed in written text. As a natural extension to this established problem, in this competition, a model is built to automatically detects the more positive review in any pairs of movie reviews.
 
